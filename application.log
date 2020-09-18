@@ -1,0 +1,4 @@
+[main] DEBUG App.class  - ##ERROR##
+[main] ERROR org.example.App  - Try this!
+[main] ERROR com.lecture13.homework.Company  - Please enter a 10 digit number for the identifier!
+[main] ERROR com.lecture13.homework.Company  - Please enter a 10 digit number for the identifier!
